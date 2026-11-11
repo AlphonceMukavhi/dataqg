@@ -1,0 +1,9 @@
+{
+  "columns": {
+    "id": {"type": "int"},
+    "age": {"type": "int", "min": 0, "max": 120},
+    "country": {"type": "str", "allowed": ["ZW", "ZA", "KE"]},
+    "score": {"type": "float", "nullable": true}
+  },
+  "key": ["id"]
+}

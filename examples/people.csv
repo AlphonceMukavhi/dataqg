@@ -1,0 +1,6 @@
+id,age,country,score,notes
+1,34,ZW,0.82,ok
+2,-4,ZA,0.51,bad age
+3,29,US,,bad country
+3,41,KE,0.77,duplicate id
+4,abc,ZW,1.1,not a number
